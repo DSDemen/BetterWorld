@@ -2,7 +2,7 @@
 
 Поддержка: https://www.donationalerts.com/r/mihailris
 
-Community
+Community Team
 
 Хочешь присойдинится к нам? Пиши в https://github.com/DSDemen/BetterWorld/issues
 
